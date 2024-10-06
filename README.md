@@ -10,6 +10,10 @@
 
 ## 📜 Certificates
 
+### [Introduction to Cyber Security - Cisco](https://www.credly.com/badges/55d3a794-2f10-47b1-8d1c-25a822c20abd/linked_in_profile)
+- Covers the foundational concepts of cybersecurity.
+- Focuses on recognizing potential cyber threats, implementing security protocols, and adhering to industry best practices to safeguard digital environments.
+
 ### [Introduction to Network Security - MaharaTech](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=35618&code=bntEOCV9nc&qrcode=1)
 - Covers fundamental principles of network security.
 - Focuses on threat identification, protective measures, and best practices.
